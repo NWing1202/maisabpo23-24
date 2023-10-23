@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\bin\Debug\net6.0\lab1maisabpo.exe
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\bin\Debug\net6.0\lab1maisabpo.deps.json
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\bin\Debug\net6.0\lab1maisabpo.runtimeconfig.json
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\bin\Debug\net6.0\lab1maisabpo.dll
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\bin\Debug\net6.0\lab1maisabpo.pdb
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.AssemblyInfo.cs
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.dll
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\refint\lab1maisabpo.dll
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.pdb
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\lab1maisabpo.genruntimeconfig.cache
+C:\Users\user\source\repos\lab1maisabpo\lab1maisabpo\obj\Debug\net6.0\ref\lab1maisabpo.dll
